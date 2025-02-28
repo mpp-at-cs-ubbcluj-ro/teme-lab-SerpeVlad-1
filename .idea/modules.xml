@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorld.main.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorld.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorld.test.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorld.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-SerpeVlad-1.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-SerpeVlad-1.iml" />
     </modules>
   </component>
